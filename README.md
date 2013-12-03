@@ -10,3 +10,6 @@ A new [solo](https://github.com/b3log/b3log-solo), let's play! :blush:
 Equality, Freedom, Passion
 
 ;-)
+
+
+add wini
